@@ -1,0 +1,2 @@
+0 10 * * 1-5 /Users/jukim/Scripts/menu.py
+0 10 * * 3,5 /Users/jukim/Scripts/offthegrid.py
